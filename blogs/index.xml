@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Blogs on Veronica Profile</title>
+		<link>http://localhost:1313/blogs/</link>
+		<description>Recent content in Blogs on Veronica Profile</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Fri, 26 Jun 2026 22:41:10 +0530</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/blogs/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>GIGO: The Root of AI Bias</title>
+				<link>http://localhost:1313/blogs/bias-in-ai/</link>
+				<pubDate>Fri, 26 Jun 2026 22:41:10 +0530</pubDate>
+				<guid>http://localhost:1313/blogs/bias-in-ai/</guid>
+				<description>&lt;h1 id=&#34;gigo-the-root-of-ai-bias&#34;&gt;GIGO: The Root of AI Bias&lt;/h1&gt;&#xA;&lt;h3 id=&#34;artificial-intelligence&#34;&gt;Artificial Intelligence&lt;/h3&gt;&#xA;&lt;p&gt;Artificial Intelligence, otherwise known as AI, is seen as objective - a machine without emotion or prejudice, which plays a role in many daily functions ranging from simple tasks such as creating dinner menus or delicious recipes that take the shortest amount of time to cook, using old stale freezer burned chicken as the key ingredient; to more business oriented tasks such as résumé screening and helping Human Resources teams decide who gets called for a job interview or who gets hired, credit scoring or loan eligibility and approvals, etc. Other specialised tasks which AI now influences include patient care in how a doctor assesses a patient, in government and public administration, in agriculture or even in carrying out more systematic tasks such as in aerospace, for example, Ingenuity (Ginny, for short), NASA&amp;rsquo;s AI-powered Mars Helicopter, which made history by successfully flying on Mars, demonstrating the potential for autonomous navigation and exploration in challenging environments.  &lt;a href=&#34;https://www.aerostudent.org/article/how-ingenuity-proved-flight-is-possible-on-mars&#34;&gt;https://www.aerostudent.org/article/how-ingenuity-proved-flight-is-possible-on-mars&lt;/a&gt;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Anonymous and Tracked!</title>
+				<link>http://localhost:1313/blogs/survey/</link>
+				<pubDate>Fri, 19 Jun 2026 22:41:10 +0530</pubDate>
+				<guid>http://localhost:1313/blogs/survey/</guid>
+				<description>&lt;h1 id=&#34;anonymous-and-tracked&#34;&gt;Anonymous and Tracked!&lt;/h1&gt;&#xA;&lt;h3 id=&#34;the-login-hoax&#34;&gt;The Login Hoax&lt;/h3&gt;&#xA;&lt;p&gt;At the completion of a course, a survey is set up, and students must access a URL in their web browser, log in with their username and password to provide responses for course evaluation. Responses are said to be treated as anonymous. A paradox, as students are promised anonymity after completing a login process which makes them identifiable. The login requirement works against data privacy and transparency causing informed consent failure due to misleading information. This failure results in students’ mistrust of the survey process and data privacy irregularities because they do not understand why their identity or login details are needed from the onset of the survey. Authenticated anonymity weakens the claim of anonymity and undermines several GDPR principles. The core idea of the GDPR principle is to collect less, explain more, and protect everything. In practice, this means collect only the data that is necessary, including any information that can identify an individual; explain clearly what data will be collected, why it is needed, and how it will be used; and protect or safeguard any data that is retained, stored, or processed.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>
